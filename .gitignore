@@ -1,0 +1,3 @@
+# Permet d'indiquer les élèments a ne pas sauvegarder
+venv_for_sakila/
+**/__pycache__/
